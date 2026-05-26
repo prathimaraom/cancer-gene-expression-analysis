@@ -6,14 +6,14 @@ Differential gene expression analysis of breast cancer data using the public GEO
 This project analyzes gene expression profiles from 286 breast cancer patients to identify genes significantly associated with cancer relapse. Using statistical methods and bioinformatics tools, I identified 63 differentially expressed genes between relapsed and non-relapsed patients.
 
 ## Dataset
-- **Source:** NCBI GEO — [GSE2034](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE2034)
+- **Source:** NCBI GEO - [GSE2034](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE2034)
 - **Samples:** 286 breast cancer patients (217 no relapse, 69 relapsed)
 - **Genes:** 22,283 Affymetrix probe sets
 - **Platform:** Affymetrix Human Genome U133A Array
 
 ## Key Findings
 - Identified **63 significantly differentially expressed genes** between relapsed and non-relapsed patients
-- Top upregulated genes in relapsed patients: **AURKA** and **BIRC5 (Survivin)** — both known oncogenes in breast cancer
+- Top upregulated genes in relapsed patients: **AURKA** and **BIRC5 (Survivin)** - both known oncogenes in breast cancer
 - PCA shows subtle but detectable differences in gene expression between the two groups
 
 ## Visualizations
