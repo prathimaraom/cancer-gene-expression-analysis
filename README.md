@@ -49,7 +49,7 @@ jupyter lab
 ```
 
 ## Project Structure
-
+```
 cancer-gene-expression-analysis/
 ├── data/                          # Dataset and output plots
 ├── notebooks/
@@ -59,6 +59,6 @@ cancer-gene-expression-analysis/
 ├── src/                           # Helper scripts
 ├── requirements.txt
 └── README.md
-
+```
 ## Author
 Prathima Rao Madhavarapu
