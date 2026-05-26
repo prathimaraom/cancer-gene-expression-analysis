@@ -57,7 +57,9 @@ cancer-gene-expression-analysis/
 │   ├── 02_differential_expression.ipynb  # T-tests and volcano plot
 │   └── 03_heatmap.ipynb           # Heatmap of top genes
 ├── src/                           # Helper scripts
-├── requirements.txt
+├── .gitignore                     # Git ignore rules
+├── LICENSE                        # MIT License
+├── requirements.txt               # Python dependencies
 └── README.md
 ```
 ## Author
